@@ -49,7 +49,7 @@ You must generate your own serial number with GenSMBIOS! https://github.com/corp
 
 
 + If you like and appreciate my work please buy me a coffee
-+ PayPal xmiguel911x@gmail.com
++ PayPal 
 + or better yet you could invite me for a beer in person ;)
 
 
