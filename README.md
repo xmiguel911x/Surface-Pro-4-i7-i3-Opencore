@@ -1,7 +1,14 @@
 # Surface Pro 4 i7 i5 Hackintosh base on Opencore 0.8.7 Works with Big Sur, Monterey and Ventura 13.3.1
 
-
 First of all I want to start by thanking dortania.github.io @Xiashangning @acidanthera @balopez83 @chris1111 the great reddit community, and the massive Hackintosh community.
+
+
+
+
+
+<h1 align="center">Surface Pro 4 i7</h1>
+
+ <p align="center"> <a href="https://ibb.co/jkHgYsR"><img src="https://i.ibb.co/SwJRgGr/Captura-de-pantalla-2023-04-20-a-las-1-09-20.png" alt="Captura-de-pantalla-2023-04-20-a-las-1-09-20" border="0" /></a>
 
 I have spent several days and hours trying to get it to work and fix bugs, but at the moment I don't have much time anymore, because of work and school
 
