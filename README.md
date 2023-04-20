@@ -49,7 +49,13 @@ I have not yet been able to verify everything that is working or what is not wor
 + Volume Up
 + Volume Down
 + Power Button (Sleep/Wake)
-
+ 
+ 
+<h1 align="center">notice for those who have i5</h1>
+For those with i5 processor you should replace the config.plist in the i5config folder after you have finished the installation, do not try to install with the i5 file because you will get stuck in the configuration start to create a user.
+ 
+ 
+ 
 I have updated to the latest version of opencore but I have had a problem with the trackpad and sometimes it does not appear in the settings menu
 
 the rest you can discover on your own. and we hope you can share your solution with us so that we can all benefit!
