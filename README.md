@@ -1,6 +1,6 @@
 # Surface Pro 4 i7 i5 Hackintosh base on Opencore 0.8.7 Works with Big Sur, Monterey and Ventura 13.3.1
 
-First of all I want to start by thanking dortania.github.io @Xiashangning @acidanthera @balopez83 @chris1111 the great reddit community, and the massive Hackintosh community.
+First of all I want to start by thanking dortania.github.io @Xiashangning @acidanthera @balopez83 @chris1111 @corpnewt, the great reddit community, and the massive Hackintosh community.
 
 
 
@@ -9,7 +9,13 @@ First of all I want to start by thanking dortania.github.io @Xiashangning @acida
 <h1 align="center">Surface Pro 4 i7</h1>
 
  <p align="center"> <a href="https://ibb.co/jkHgYsR"><img src="https://i.ibb.co/SwJRgGr/Captura-de-pantalla-2023-04-20-a-las-1-09-20.png" alt="Captura-de-pantalla-2023-04-20-a-las-1-09-20" border="0" /></a>
-
+ 
+ 
+ <h1 align="center">Surface Pro 4 i5</h1>
+ 
+<p align="center"> <a href="https://ibb.co/Kz1SwRd"><img src="https://i.ibb.co/S7LGrWb/Screenshot-2023-04-20-at-8-13-43-AM.png" alt="Screenshot-2023-04-20-at-8-13-43-AM" border="0" /></a>
+ 
+ 
 I have spent several days and hours trying to get it to work and fix bugs, but at the moment I don't have much time anymore, because of work and school
 
 **everyone who is willing to help fix bugs is welcome!**
@@ -29,7 +35,7 @@ I have not yet been able to verify everything that is working or what is not wor
 
 + Graphics Acceleration
 + Battery
-+ TypeCover Trackpad: w/gestures
++ TypeCover Trackpad: w/gestures, settings for the trackpad <a href="https://ibb.co/SNqYDFp"><img src="https://i.ibb.co/gysqbkC/Screenshot-2023-04-20-at-8-11-56-AM.png" alt="Screenshot-2023-04-20-at-8-11-56-AM" border="0" /></a>
 + TypeCover Hotplug
 + TouchScreen you need to manually install IPTSDaemon https://github.com/Xiashangning/IPTSDaemon
 + Wifi and Bluetooth only with dongle and https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter
