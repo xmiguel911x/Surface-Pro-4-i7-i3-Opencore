@@ -46,9 +46,6 @@ I have not yet been able to verify everything that is working or what is not wor
 
 + native Wi-Fi
 + native Bluetooth
-+ Volume Up
-+ Volume Down
-+ Power Button (Sleep/Wake)
  
  
 <h1 align="center">notice for those who have i5</h1>
